@@ -2,8 +2,8 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "Fish Bubble Popper",
-  "short_name": "Fish Bubble Popper",
+  "name": "Fish Bubble Popper (Web)",
+  "short_name": "Fish Bubble Popper (Web)",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "landscape",
   "icons": [
